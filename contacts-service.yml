@@ -1,5 +1,5 @@
 configuration:  
-  projectName: configclient
+  projectName: contacts-service
 server:
   port: 8000
 message:
